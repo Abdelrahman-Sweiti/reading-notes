@@ -1,0 +1,19 @@
+Topic Importance:
+Understanding classes, constructors, properties, and memory management is crucial in object-oriented programming. Classes provide a blueprint for creating objects, constructors initialize objects, and properties provide a way to encapsulate data and define behavior. Memory management, specifically the distinction between stack and heap, is essential for optimizing resource usage and preventing memory leaks.
+
+Questions and Prompts:
+
+What is the difference between a static and an instance constructor?
+A static constructor is used to initialize static members of a class and is executed only once, when the class is accessed for the first time. An instance constructor, on the other hand, is used to initialize instance members of a class and is executed each time a new instance of the class is created.
+How does the use of a static constructor differ from setting properties/values?
+A static constructor is used for class-level initialization and executes without requiring an instance of the class. It is used to set up static fields or perform any one-time initialization tasks. Setting properties/values, on the other hand, is done at the instance level and involves assigning values to specific properties of an object.
+How might you rethink the way you did projects in previous courses to make more efficient use of memory, considering your knowledge of the stack and the heap?
+By understanding the stack and the heap, you can make more informed decisions about memory allocation. Instead of unnecessarily creating large objects on the heap, you can consider using value types or struct types that are stored on the stack. Additionally, you can optimize memory usage by avoiding excessive object instantiation, reusing objects where possible, and managing object references efficiently.
+Compare "Garbage Collection" in C# with the lifecycle of normal household items.
+Garbage collection in C# is similar to the lifecycle of normal household items. Just as we use items and eventually discard them when they are no longer needed, objects in C# are created, used, and eventually become eligible for garbage collection when they are no longer referenced. Garbage collection automatically frees up memory occupied by objects that are no longer in use, similar to how we dispose of or recycle items we no longer need in our household.
+Things I want to know more about:
+
+How can I implement IDisposable and the Dispose pattern to manage unmanaged resources and improve memory management?
+Are there any tools or techniques available for analyzing and optimizing memory usage in .NET applications?
+How does memory management differ in other programming languages compared to C#?
+What are some best practices for efficient memory management and performance optimization in object-oriented programming?
