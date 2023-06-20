@@ -1,0 +1,22 @@
+Debugging for absolute beginners
+
+1- One major benefit of tracing the call stack is that it helps identify the sequence of function calls leading up to an error or exception, making it easier to locate and fix the problem.
+
+Try/Catch Blocks
+
+
+2- If I could use try/catch in my day-to-day life, I would like to 'catch' and handle the exception of running out of coffee in the morning.
+
+
+3-From an efficiency standpoint, try/catch blocks can have some downsides. They can introduce a small performance overhead, as the system needs to handle the exception and perform additional operations when an exception occurs. Therefore, using try/catch blocks excessively or in situations where exceptions are highly frequent can impact the overall efficiency of the code.
+
+Exception Handling
+
+
+4- In .NET, exception handling is a mechanism used to gracefully handle errors or exceptional situations that can occur during program execution. When an error occurs, instead of abruptly terminating the program, .NET provides a structured way to catch and handle those errors. It allows developers to use try/catch blocks to detect and respond to exceptions, providing an opportunity to handle errors gracefully, provide appropriate feedback to users, and prevent crashes or unexpected program behavior.
+
+
+
+5- In the case of Therac-25, a glaring mistake was the lack of proper interlocks and safety checks in the software and hardware design, which resulted in the radiation therapy machine delivering lethal doses of radiation to patients.
+
+In the case of Ariane 5, a glaring mistake was the inadequate handling of a software exception during the rocket's flight, causing a data conversion error. This error, combined with the lack of appropriate exception handling and the reuse of software from a previous model (Ariane 4), led to the rocket's failure and destruction shortly after launch.
