@@ -20,9 +20,31 @@ This website is a collection of my observations and questions from the reading a
   - Working with APIs
 - Here's an example of code in JavaScript:
 
+
+
+
 ```javascript
 function greet(name) {
   console.log("Greeting, " + name);
 }
 
 greet("Abdelrahman");
+```
+
+## Table of contents : 
+
+[Class01]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/class01")
+
+[Class02]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/class01")
+
+[Class03]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class03")
+
+[Class04]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class04")
+
+[Class05]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class05.md")
+
+[Class06]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class06")
+
+[Class07]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class07")
+
+[Linked List reading]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/LinkedListReading")
