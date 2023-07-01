@@ -1,0 +1,11 @@
+those 4 topics are very important in OOP where it gives us a lot of advantages and make it easier for us to develop real world applications, each topic has it own use and benefits and its own way of implementing studying those topics in the course im taking will help me in the future when we start implementing ASP dot net core features it will play a critical role in helping us
+
+heres a short brief about those topics :
+
+Inheritance: In C#, inheritance allows classes to inherit properties and behaviors from other classes, promoting code reuse and logical organization.
+
+Abstract: Abstract classes in C# cannot be directly instantiated and serve as base classes for other classes. They define common functionality that derived classes can implement.
+
+Polymorphism: Polymorphism in C# allows objects to take on different forms. It is achieved through method overriding and method overloading, enabling flexible behavior.
+
+OOP Principles: Object-Oriented Programming principles in C# guide software design and implementation. They include encapsulation, inheritance, and polymorphism, promoting code organization, reusability, and flexibility.
