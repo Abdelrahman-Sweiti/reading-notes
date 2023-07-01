@@ -1,1 +1,6 @@
+today i learned about linked list and we tried to make one from scratch and we wrote some methods to do some changes such as adding a new head or at the end 
+i took some note refrence about defining linked lists : 
 
+
+A linked list is a data structure consisting of nodes, where each node holds data and a reference to the next node. It allows for dynamic insertion and deletion of elements.
+Linked lists are used when the size of the structure needs to change frequently. They are efficient for insertions and deletions but have limited random access and require extra memory for storing links between nodes.
