@@ -48,3 +48,5 @@ greet("Abdelrahman");
 [Class07]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class07")
 
 [Linked List reading]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/LinkedListReading")
+
+[Class08]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class08)
