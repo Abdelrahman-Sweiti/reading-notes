@@ -1,1 +1,5 @@
+unit testing improves code quality by identifying bugs and issues early in the development process. It helps catch errors before they propagate to other parts of the codebase, making debugging and maintenance easier.
 
+Unit testing provides a safety net for making changes and refactoring code. When modifications are made, tests can quickly verify if the existing functionality is still working as expected. This reduces the fear of breaking existing code and encourages more frequent updates.
+
+Unit testing promotes modular and loosely coupled code. By writing tests for individual units (methods or functions), developers are forced to think about the desired behavior and inputs/outputs of these units. This leads to code that is more modular, easier to understand, and less prone to bugs.
