@@ -35,7 +35,7 @@ greet("Abdelrahman");
 
 [Class01]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/class01")
 
-[Class02]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/class01")
+[Class02]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class02")
 
 [Class03]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class03")
 
