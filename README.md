@@ -50,3 +50,6 @@ greet("Abdelrahman");
 [Linked List reading]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/LinkedListReading")
 
 [Class08]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class08)
+
+[Class09]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class09)
+
