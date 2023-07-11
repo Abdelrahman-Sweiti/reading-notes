@@ -1,0 +1,15 @@
+i learned some basic commands that we can perform in the terminal which will help me a lot in my studying for this course and specially when handling the team management 
+
+my overall notes and learning were the following :
+
+The Command Line: A command-line interface (CLI) is a means of interacting with a device or computer program with commands from a user or client, and responses from the device or program, in the form of lines of text. 
+Such access was first provided by computer terminals starting in the mid-1960s. This provided an interactive environment not available with punched cards or other input methods.
+
+Basic Navigation: The Linux directory system is a tree-like structure that starts at the root directory. The root directory is represented by a forward slash (/). Directories are denoted by forward slashes (/) and files are just names. To move around the directory system, you use the cd command.
+
+More About Files: In Linux, everything is a file. Directories are files that contain lists of other files. Files are files and directories are directories. Files can be empty or they can contain data.
+
+Manual Pages: Manual pages are an essential part of any Linux system. They provide information on how to use commands and utilities installed on your system.
+
+File Manipulation: You can create files using the touch command. You can remove files using the rm command. You can rename files using the mv command. You can copy files using the cp command. You can move files using the mv command.
+Cheat Sheet: A quick reference for the main points covered in this tutorial.
