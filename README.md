@@ -33,6 +33,8 @@ greet("Abdelrahman");
 
 ## Table of contents : 
 
+[Terminal Practice]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Terminal_Practice)
+
 [Class01]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/class01")
 
 [Class02]("(https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class02")
