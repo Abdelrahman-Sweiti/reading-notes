@@ -53,3 +53,6 @@ greet("Abdelrahman");
 
 [Class09]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class09)
 
+[Stacks and Queues]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class10)
+
+
