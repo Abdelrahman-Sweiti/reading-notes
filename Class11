@@ -1,0 +1,41 @@
+What is a Database Schema?
+A database schema defines the structure, organization, and relationships of a database. It includes tables, fields, data types, constraints, and other specifications that determine how data is stored and accessed.
+
+Why do we use Database Schemas?
+Database schemas provide a blueprint for organizing and managing data in a database system. They ensure data integrity, facilitate efficient data retrieval and manipulation, and enable better understanding and documentation of the database structure.
+
+What do Database Schemas look like?
+A database schema is typically represented as a collection of tables, where each table consists of columns (fields) and rows (records). The schema also defines relationships between tables through primary keys, foreign keys, and other constraints.
+
+What are the different types of Database Keys?
+The different types of database keys are:
+
+Primary Key: A unique identifier for each record in a table.
+Foreign Key: A field that references the primary key of another table.
+Composite Key: A combination of two or more fields that uniquely identifies a record.
+What is a Primary Key?
+A primary key is a unique identifier for each record in a table. It ensures that each record is uniquely identifiable and serves as a reference for establishing relationships with other tables.
+
+What is a Foreign Key?
+A foreign key is a field in a table that refers to the primary key of another table. It establishes a relationship between two tables by enforcing referential integrity, ensuring that values in the foreign key match values in the referenced primary key.
+
+What is a Composite Key?
+A composite key is a combination of two or more fields in a table that together uniquely identify a record. Unlike a primary key, which is a single field, a composite key uses multiple fields to create a unique identifier.
+
+How are they different? When do you use one over the others?
+Primary keys are used to uniquely identify records within a table, while foreign keys establish relationships between tables. Composite keys are used when a single field cannot uniquely identify a record, requiring a combination of fields. The choice of key type depends on the specific requirements of the database and the relationships between tables.
+
+DBMS
+DBMS stands for Database Management System. It is software that enables the creation, management, and interaction with databases. DBMS provides tools for storing, retrieving, manipulating, and securing data in a structured manner.
+
+What are Relationships in a relational database?
+Relationships in a relational database define connections and associations between tables. They specify how data in one table is related to data in another, facilitating data retrieval and ensuring data consistency.
+
+What is a 1:1 relationship?
+A 1:1 relationship refers to a relationship between two tables where each record in one table corresponds to exactly one record in the other table. It implies a one-to-one mapping between the related records.
+
+What is a Many:Many relationship?
+A Many:Many relationship, also known as a many-to-many relationship, occurs when multiple records in one table can be associated with multiple records in another table. It requires a bridge or junction table to connect the two related tables.
+
+How about a 1:Many or Many:1 relationship?
+A 1:Many relationship, also known as a one-to-many relationship, exists when a record in one table can be associated with multiple records in another table, but each record in the second table corresponds to only one record in the first table. A Many:1 relationship is the reverse, where multiple records in the first table can be associated with a single record in the second table.
