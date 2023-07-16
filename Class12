@@ -1,0 +1,8 @@
+after reading the article about MVC and EF i made a short summary talking about how important this topic is :
+understanding and applying MVC and EF concepts are crucial for developing modern web applications. MVC provides a structured approach to application development, enhancing code organization and user experience. EF simplifies data access and management, boosting development productivity and enabling scalable, maintainable applications. Mastering these topics empowers developers to build robust, efficient, and user-friendly web applications.
+
+i also summarized the remaining article in the link you gave us :
+
+The article is a tutorial on getting started with EF Core in an ASP.NET MVC web application. It introduces the concept of using EF Core with controllers and views in ASP.NET Core MVC. The tutorial highlights the advantages of using Razor Pages over MVC for new development. It covers various topics including implementing inheritance in the data model, performing raw SQL queries, and using dynamic LINQ to simplify code.
+
+The tutorial provides an example of building a Contoso University web app, which simulates a university website with features like student admission, course creation, and instructor assignments. It emphasizes the use of Entity Framework Core and Visual Studio for developing the web app.
