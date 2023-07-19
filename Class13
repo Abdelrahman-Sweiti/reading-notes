@@ -1,0 +1,15 @@
+## Summary for the topics mentioned in the reading
+
+Dependency Injection (DI) is a design pattern used in software development to achieve loosely coupled and more maintainable code. 
+It allows you to separate the creation and management of object dependencies from the classes that require those dependencies. 
+Instead of creating objects directly within a class, DI injects the required dependencies into the class through constructors, properties, or method parameters. 
+This enables you to easily switch implementations, manage object lifetimes, and improves testability by facilitating the use of mock objects during unit testing. 
+Dependency Injection is widely used in modern frameworks, such as ASP.NET Core, to provide services to classes without tightly coupling them to specific implementations.
+
+Summary of Repository Pattern:
+
+The Repository Pattern is a design pattern commonly used in software development to provide an abstraction layer between the data access logic and the rest of the application.
+It centralizes data access operations by encapsulating the data access code within repository classes. These repositories act as intermediaries,
+exposing methods to perform CRUD (Create, Read, Update, Delete) operations on data entities without exposing the underlying data access details.
+This separation of concerns makes the codebase more maintainable and scalable, as changes to data storage or retrieval mechanisms can be isolated to the repository implementation without affecting the rest of the application. 
+The Repository Pattern is especially valuable in projects where multiple data sources (e.g., databases, web services) are used, as it allows for a unified and consistent data access interface for the entire application.
