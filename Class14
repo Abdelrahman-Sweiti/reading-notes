@@ -1,0 +1,13 @@
+Summary : 
+Routing within MVC:
+Routing within Model-View-Controller (MVC) refers to the process of handling incoming web requests and mapping them to appropriate controller actions. In the MVC architecture, 
+routing plays a crucial role in determining how URLs are interpreted and processed. When a user makes a request to a specific URL, 
+the routing system analyzes the URL and decides which controller and action method should be invoked to generate the appropriate response. 
+Properly configured routing is essential for building organized and SEO-friendly web applications, as it helps maintain clean and meaningful URLs while ensuring the correct execution of actions based on the requested resource.
+
+Routing within Core:
+Routing within Core pertains to the routing mechanism employed in the ASP.NET Core framework. ASP.NET Core 
+is a cross-platform, high-performance framework for building modern web applications.
+Routing in ASP.NET Core follows a similar concept as in MVC, but it comes with additional features and flexibility to cater to the requirements of various application types. 
+ASP.NET Core's routing system allows developers to define routes using attributes, conventions, or a combination of both. This approach enables clean and concise route configurations and enhances the overall development experience.
+With ASP.NET Core's routing, developers can easily handle complex URL patterns, customize route parameters, and create RESTful APIs efficiently.
