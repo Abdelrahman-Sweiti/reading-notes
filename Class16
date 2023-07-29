@@ -1,0 +1,19 @@
+Data Transfer Objects (DTOs):
+
+Definition: DTOs are lightweight data containers that hold information to be transferred between different parts of an application.
+Purpose: They facilitate communication and data transfer between different layers or components of an application without exposing the actual domain or database entities.
+Structure: DTOs typically consist of properties representing the data to be transferred and may not contain any business logic.
+Immutable: DTOs are often designed as immutable objects, meaning their properties are set only during initialization and cannot be modified afterward.
+Performance: DTOs can improve performance by reducing the amount of data sent over the network or retrieved from the database, as only relevant information is transferred.
+Mapping: To convert domain entities to DTOs and vice versa, a mapping mechanism is often used (e.g., AutoMapper in .NET).
+Security: DTOs can be used to expose only specific data to external clients, ensuring that sensitive or unnecessary information is not disclosed.
+Separation of Concerns: Using DTOs helps maintain a clear separation of concerns between different layers of an application, enhancing its overall architecture and maintainability.
+How to use DTOs:
+
+Identify Data Transfer Needs: Determine the data that needs to be transferred between different parts of the application, considering which information is relevant and safe to expose.
+Create DTOs: Define separate DTO classes for each data transfer requirement, ensuring they only contain the necessary properties.
+Mapping: Implement a mapping mechanism (e.g., AutoMapper) to convert domain entities to DTOs and vice versa. This can be done manually or using automated mapping libraries.
+Data Transfer: Use the DTOs to transfer data between different layers, such as between the application's frontend and backend or when communicating with external systems.
+Keep DTOs Simple: Avoid adding complex business logic or behavior to DTOs; they should be focused solely on data transfer.
+Keep DTOs Immutable: Design DTOs as immutable objects to ensure data integrity during transfer.
+Be Mindful of Performance: Use DTOs to reduce unnecessary data transfer and improve performance, especially when dealing with large or frequently accessed datasets.
