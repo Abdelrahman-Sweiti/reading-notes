@@ -1,0 +1,11 @@
+Azure DevOps:
+Azure DevOps is a comprehensive set of development tools and services offered by Microsoft. It supports the entire software development lifecycle, from planning and coding to building, testing, and deployment. It provides functionalities for version control, automated builds, continuous integration/continuous deployment (CI/CD), project management, and more. Azure DevOps aims to enhance collaboration among development and operations teams to deliver software more efficiently.
+
+MVC Basics:
+MVC stands for Model-View-Controller, which is a design pattern used in software development to separate an application into three interconnected components. The Model represents the data and business logic, the View handles the presentation and user interface, and the Controller manages user input and controls the flow of the application. This separation of concerns promotes modularity and maintainability in applications.
+
+Tag Helpers:
+Tag Helpers are a feature in ASP.NET Core (a framework for building web applications) that allows developers to create server-side code that generates HTML elements with additional behaviors. Instead of writing extensive HTML with embedded server-side code, Tag Helpers enable more readable and cleaner views. They help in encapsulating complex logic and rendering dynamic content while maintaining the structure of HTML.
+
+Bootstrap:
+Bootstrap is a popular open-source front-end framework used to design and build responsive and visually appealing web interfaces. Developed by Twitter, it provides a set of pre-designed HTML, CSS, and JavaScript components that simplify web development. Bootstrap's grid system, typography, forms, buttons, and other UI elements enable developers to create consistent and attractive websites or web applications with less effort and time.
