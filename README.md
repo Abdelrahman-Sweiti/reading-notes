@@ -77,6 +77,12 @@ greet("Abdelrahman");
 
 [Class19]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class19)
 
+[Class26]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class26)
+
+[Class27]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class27)
+
+
+
 
 
 
