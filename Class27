@@ -1,0 +1,12 @@
+View Models:
+View Models in ASP.NET MVC are classes designed to represent the data and behavior required by a specific view. They act as intermediaries between the controller and the view, providing a structured way to pass data to the view that might involve multiple entities or fields. View Models help keep the views cleaner and more organized by separating the presentation logic from the business logic. They are especially useful when a single view needs data from multiple sources or when the data presentation differs from the structure of the underlying data models.
+
+ Make a Form in .NET MVC:
+
+HTML Forms: You can create basic forms using HTML <form> elements directly in your views. These forms can be submitted to an action method in the controller using the HTTP POST method.
+
+Html.BeginForm(): In ASP.NET MVC, the Html.BeginForm() helper method generates an HTML <form> element and helps simplify form creation. It allows you to specify the action method and controller to handle form submissions.
+
+Ajax.BeginForm(): This helper method, like Html.BeginForm(), generates an HTML <form> element but is used for AJAX-enabled forms. It enables you to submit form data asynchronously without reloading the entire page.
+
+Model Binding: Model binding is a powerful feature in ASP.NET MVC that automatically maps form input data to action method parameters. By specifying a parameter of your model type in the action method, the framework binds the form data to the model properties based on their names.
