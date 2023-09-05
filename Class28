@@ -1,0 +1,15 @@
+Authentication :
+
+Authentication is the process of verifying the identity of a user, typically by validating their credentials (e.g., username and password).
+ authentication can be implemented using various schemes, including cookie-based, token-based, or external authentication providers (e.g., OAuth, OpenID Connect).
+ASP.NET Core provides a flexible and extensible authentication system that allows you to configure different authentication mechanisms for your web applications.
+
+Authorization:
+
+Authorization defines what actions or resources a user is allowed to access after they have been authenticated.
+In ASP.NET Core, authorization can be implemented using policies, roles, or claims to specify permissions for different parts of your application.
+The [Authorize] attribute is commonly used to restrict access to specific controllers or actions based on authorization rules.
+HTTP Cookies:
+
+HTTP cookies are small pieces of data sent by a web server to a user's browser and stored locally on the user's machine.
+Cookies are often used for session management, user tracking, and storing user preferences.
