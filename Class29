@@ -1,0 +1,6 @@
+after reading these topics i think i understand the general idea of it and it lists as follows:  
+Blob Storage is a cloud-based object storage service provided by Microsoft Azure. It allows you to store and manage unstructured data such as images, documents, videos, and backups. Blob Storage is highly scalable, secure, and accessible over the internet, making it a versatile solution for various storage needs.
+
+The Blob Storage Quickstart is a beginner's guide to getting started with Azure Blob Storage. It typically includes step-by-step instructions on how to create a Blob Storage account, upload and manage blobs, set access permissions, and integrate Blob Storage into your applications. This quickstart serves as a practical introduction for developers and administrators.
+
+Azure Storage Documentation is a comprehensive resource provided by Microsoft Azure that offers detailed information, tutorials, and reference materials related to Azure Storage services, including Blob Storage. It covers topics like storage account configuration, security, best practices, and API reference documentation. It's a valuable reference for developers, administrators, and anyone working with Azure Storage services.
