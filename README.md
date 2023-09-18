@@ -87,6 +87,7 @@ greet("Abdelrahman");
 
 [Class31]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class31)
 
+[Class32]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class32)
 
 
 
