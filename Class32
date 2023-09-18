@@ -1,0 +1,19 @@
+View Components in ASP.NET Core provide a way to create reusable, modular UI components that encapsulate logic and rendering. They are a form of partial view with associated processing logic. View Components are useful when you need to create complex UI elements that require server-side logic and rendering, making them more powerful and flexible than partial views alone.
+
+Key Points:
+
+Reusability: View Components enable the creation of reusable UI components, promoting code reuse and maintainability.
+
+Encapsulation: They encapsulate both server-side logic and UI rendering, promoting a cleaner separation of concerns.
+
+Partial Views Enhancements: View Components extend the concept of partial views, providing more functionality and flexibility in rendering components.
+
+Asynchronous Support: View Components can be designed to support asynchronous execution, enhancing responsiveness and performance.
+
+Parameters: View Components can accept parameters, allowing them to be customized based on specific requirements.
+
+InvokeAsync Method: View Components typically have an InvokeAsync method, which is the entry point for rendering the component and executing any associated logic.
+
+Rendering: View Components can render HTML and can be integrated seamlessly into Razor views.
+
+In summary, View Components in ASP.NET Core are a powerful tool for creating reusable UI components with encapsulated logic, enhancing modularity and maintainability in web application development.
