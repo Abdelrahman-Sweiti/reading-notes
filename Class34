@@ -1,0 +1,16 @@
+after reading all the required i made a small summary for every link provided for us to read  : 
+
+Readings and How to Read Technical Documentation:
+Understanding how to read technical documentation is crucial for developers. It involves systematically going through written materials, often provided by software or hardware vendors, to grasp the functionalities, features, and usage of a product or technology. Techniques include skimming for overviews, focusing on relevant sections, understanding syntax, and utilizing examples to enhance comprehension.
+
+How Credit Card Processing Works:
+Credit card processing involves a series of steps to authorize and complete a transaction. When a customer makes a purchase, their credit card details are securely transmitted to the payment gateway, which validates the information, checks for funds, and communicates with the issuing bank for approval. Once approved, the transaction is completed, and funds are transferred to the merchant account.
+
+How ONLINE Credit Card Processing Works:
+Online credit card processing is similar to traditional processing but conducted over the internet. When a customer submits their credit card information on a website, it's encrypted and sent to the payment gateway. The gateway then follows the steps of authorization and transaction completion, ensuring security and reliability in the online transaction process.
+
+Bookmark and Review - Authorize.net .NET SDK:
+Authorize.net .NET SDK is a crucial resource for developers integrating payment processing into their .NET applications using Authorize.net services. It provides software development kits (SDKs) that simplify the integration process, offering tools and functionalities to seamlessly incorporate payment features into .NET-based applications. Bookmarking this resource allows easy access for future reference and integration needs.
+
+Bookmark and Review - Authorize.net Developer Docs:
+The Authorize.net Developer Docs are essential references for developers using Authorize.net for payment processing integration. These documents offer comprehensive information, including APIs, endpoints, request and response examples, authentication, error handling, and best practices. Bookmarking this resource ensures quick access to the latest and most accurate developer-specific documentation, facilitating efficient integration and troubleshooting.
