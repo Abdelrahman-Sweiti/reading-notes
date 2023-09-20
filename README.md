@@ -85,6 +85,8 @@ greet("Abdelrahman");
 
 [Class29]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class29)
 
+[Class30]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/HashTable)
+
 [Class31]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class31)
 
 [Class32]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class32)
