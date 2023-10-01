@@ -1,0 +1,6 @@
+after reading the article i made a summary for what i have learnt : 
+
+
+
+
+The JAM Stack is a modern web development architecture that stands for JavaScript, APIs, and Markup. It's a methodology for building websites and web applications that emphasizes decoupling the front end from the back end, allowing for greater flexibility, scalability, and performance. In this approach, static site generation generates pre-built HTML files, which are served directly to users, and dynamic elements are handled via JavaScript and APIs, providing a seamless and interactive user experience. The JAM Stack promotes efficient development, better security, and simplified deployment processes.
