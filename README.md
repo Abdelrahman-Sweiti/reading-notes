@@ -99,6 +99,10 @@ greet("Abdelrahman");
 
 [Class37]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class37)
 
+[Class38]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class38)
+
+[Class39]((https://github.com/Abdelrahman-Sweiti/reading-notes/blob/main/Class39)
+
 
 
 
