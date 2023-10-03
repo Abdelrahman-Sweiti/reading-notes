@@ -1,0 +1,19 @@
+after reading the article i made a short summary for these topics : 
+
+React - Conditional Rendering:
+Conditional rendering in React involves displaying different components or elements based on certain conditions, allowing dynamic user interfaces that adapt to changing data or user interactions.
+
+React - Lists & Keys:
+Lists in React allow for rendering multiple items dynamically. Keys are special identifiers used to help React efficiently update and manage lists of components.
+
+React - Forms:
+React facilitates the creation and handling of HTML forms, including controlled components where form elements are bound to React state, enabling real-time updates and validation.
+
+React - Lifting State:
+Lifting state up in React involves moving the state to a common ancestor component, enabling components to share and update the state, improving data management and reusability.
+
+React - Composition vs Inheritance:
+React encourages composition (combining small, focused components to create complex ones) over inheritance to promote code reuse, maintainability, and flexibility in component design.
+
+Thinking in React:
+"Thinking in React" is a conceptual approach that helps developers break down UIs into components, plan component hierarchies, and manage state effectively, resulting in well-structured and modular React applications.
